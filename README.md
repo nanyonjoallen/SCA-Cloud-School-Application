@@ -20,3 +20,9 @@ Connecting jenkins to git
 
 - go to dashboard and click build
 
+Find my assignment-Jenkins
+Username :allenrosej
+Snowoman2013
+http://jenkins.allennanyonjo.com:8080/
+https://github.com/nanyonjoallen/SCA-Cloud-School-Application
+
